@@ -1,6 +1,7 @@
 macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 
-<img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/6a2f2f16-5360-4191-ac99-86bf2bc204f0" />
+<img width="1600" height="1200" alt="597663633-6a2f2f16-5360-4191-ac99-86bf2bc204f0 (1)" src="https://github.com/user-attachments/assets/3c3f0297-35f8-40f4-b636-8aeb78b34e02" />
+
 
 <img width="313" height="503" alt="Screenshot 2026-05-25 alle 15 02 29" src="https://github.com/user-attachments/assets/259bd2a7-5500-4056-a8bc-c3fd8c09af71" />
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/8af51fe9-056e-4559-bc20-6038a54f3e63" /> 
