@@ -41,6 +41,8 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 
 :x: HDMI (Since the dGPU is disabled)
 
+:x: SD Card Reader
+
 :warning: Installer may be in Russian
 
 
