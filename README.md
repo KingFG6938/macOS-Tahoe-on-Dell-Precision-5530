@@ -1,4 +1,7 @@
 macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
+
+<img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/6a2f2f16-5360-4191-ac99-86bf2bc204f0" />
+
 | Component | Specs | 
 | :---      | ---:  |
 | CPU       | Intel Core i7-8850h |
