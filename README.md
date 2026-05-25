@@ -54,13 +54,13 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 
 **Credits:**
 
-Acidanthera 
+[Acidanthera](https://github.com/acidanthera) 
 
-Apple 
+[Apple](https://www.apple.com/) 
 
 [Dortania for the OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
-Hackintosh Paradise Discord Server for helping me
+[Official r/hackintosh Discord](https://discord.com/invite/Wxam8aH)
 
 
 
