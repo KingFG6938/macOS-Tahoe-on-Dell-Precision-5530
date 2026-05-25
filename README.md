@@ -3,3 +3,4 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 | :---      | ---:  |
 | CPU       | Intel Core i7-8850h |
 | RAM       | 32GB DDR4 2133mHZ |
+| SCREEN RES| 3840x2160 (4K)|
