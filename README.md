@@ -10,3 +10,28 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 | dGPU (disabled in macOS)| NVIDIA Quadro P2000| 
 
 What's working:
+
+Audio (Patch with VoodooHDA Tahoe)
+
+Wi-Fi (Use HeliPort)
+
+iGPU and Hardware Acceleration
+
+Sleep/Wake
+
+Keyboard
+
+Trackpad with Gestures
+
+Touchscreen
+
+Brightness Keys
+
+Volume Keys
+
+All USB Ports
+
+
+
+
+
