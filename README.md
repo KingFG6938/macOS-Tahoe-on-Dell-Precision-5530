@@ -13,6 +13,7 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 | dGPU (disabled in macOS)| NVIDIA Quadro P2000| 
 
 **What's working:**
+--------------------------------------------------------
 
 :white_check_mark: Audio (Patch with VoodooHDA Tahoe)
 
@@ -35,6 +36,7 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 :white_check_mark: All USB Ports
 
 **What's not working and problems:**
+--------------------------------------------------------------
 
 :x: Thunderbolt
 
@@ -49,10 +51,11 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 :warning: Installer may be in Russian
 
 **Special thanks to:**
+----------------------------------------------------
 
 **Corpnewt, mrzeitgeist, zackthecoder:** For helping me fix problems with the EFI
 
-#**Credits:**
+**Credits:**
 ----------------------------------------
 
 [Acidanthera](https://github.com/acidanthera) 
