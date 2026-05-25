@@ -55,6 +55,8 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 
 :warning: Installer may be in Russian
 
+:warning: The battery doesn't last at all
+
 **Special thanks to:**
 ----------------------------------------------------
 
