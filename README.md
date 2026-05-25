@@ -48,6 +48,20 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 
 :warning: Installer may be in Russian
 
+**Special thanks to:**
+
+**Corpnewt, mrzeitgeist, zackthecoder:** For helping me fix problems with the EFI
+
+**Credits:**
+
+Acidanthera 
+
+Apple 
+
+Dortania for the OpenCore guide
+
+Hackintosh Paradise Discord Server for helping me
+
 
 
 
