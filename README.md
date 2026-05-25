@@ -58,7 +58,7 @@ Acidanthera
 
 Apple 
 
-[Dortania for the OpenCore guide] (https://github.com/dortania) (https://dortania.github.io/OpenCore-Install-Guide/)
+[Dortania for the OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
 Hackintosh Paradise Discord Server for helping me
 
