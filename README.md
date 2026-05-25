@@ -31,6 +31,20 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 
 :white_check_mark: All USB Ports
 
+**What's not working and problems:**
+
+:x: Thunderbolt
+
+:x: NVIDIA dGPU (Obviously)
+
+:x: Wi-Fi without HeliPort
+
+:x: HDMI (Since the dGPU is disabled)
+
+:warning: Installer may be in Russian
+
+
+
 
 
 
