@@ -60,7 +60,7 @@ macOS Tahoe EFI for Dell Precision 5530 4K Coffee Lake
 **Special thanks to:**
 ----------------------------------------------------
 
-**Corpnewt, mrzeitgeist, zackthecoder:** For helping me fix problems with the EFI
+**corpnewt, mrzeitgeist, zackthecoder:** For helping me fix problems with the EFI
 
 **Credits:**
 ----------------------------------------
